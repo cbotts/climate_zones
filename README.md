@@ -1,5 +1,5 @@
 # Classifying Climate Zones 
-Classifciation of weather stations into evapotranspiration based climate zones 
+Classification of weather stations into evapotranspiration based climate zones 
 
 ## Objective 
 Create a classification model that can classify Southern California weather data into a climate zones. Identify climate analogues using climate zone classifications. 
